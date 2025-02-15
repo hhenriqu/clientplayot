@@ -4666,14 +4666,6 @@
       "unpackedsize": 591760
     },
     {
-      "localfile": "bin/imageformats/qjpeg.dll",
-      "packedhash": "4857d2e6fd827da5153eaca1b8d6516210197dbaa69ed344d95a8838e7f717bb",
-      "packedsize": 161791,
-      "url": "bin/imageformats/qjpeg.dll.lzma",
-      "unpackedhash": "51d1c70a5f4b65dba8cee5c89ad09f846d599bb6e59f59322ec957a69b22511e",
-      "unpackedsize": 563600
-    },
-    {
       "localfile": "bin/imageformats/qgif.dll",
       "packedhash": "97a2b6b5f90a880f9f87c629f56d9ef6cdc719991932d05dbc46db9c847dd6fb",
       "packedsize": 24529,
