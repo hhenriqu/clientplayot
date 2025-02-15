@@ -4672,38 +4672,6 @@
       "url": "bin/imageformats/qgif.dll.lzma",
       "unpackedhash": "cb44f9a752089d2221bd5931b64efdf1f79e946946d504e71c7f78eabf20aa3d",
       "unpackedsize": 47000
-    },
-    {
-      "localfile": "bin/generic/qtuiotouchplugin.dll",
-      "packedhash": "05e92ce77caadb90648aee9b8c2524ac1a20d1a8c456fa3a71a2aeead49a08e1",
-      "packedsize": 45246,
-      "url": "bin/generic/qtuiotouchplugin.dll.lzma",
-      "unpackedhash": "12763890d20fe8abd467fe4879d59f1e70f124ed6538d8dc0bda577108e43155",
-      "unpackedsize": 100240
-    },
-    {
-      "localfile": "bin/translations/qtwebengine_locales/en-US.pak",
-      "packedhash": "c08e7e549858564605eb214ae56eb67b229941fc29b0aa6c4a022ee55ade46c9",
-      "packedsize": 100784,
-      "url": "bin/translations/qtwebengine_locales/en-US.pak.lzma",
-      "unpackedhash": "6afc79ef72e64c100cd2264489420f9f8bbfa6cc41511e578e08a2bab2dbcbc1",
-      "unpackedsize": 365415
-    },
-    {
-      "localfile": "bin/networkinformation/qnetworklistmanager.dll",
-      "packedhash": "dd71d70730cb43dba72457cdfb9465d5294396436fc195925119d505e3897b90",
-      "packedsize": 32498,
-      "url": "bin/networkinformation/qnetworklistmanager.dll.lzma",
-      "unpackedhash": "17c257f41081d2cf50600d58f1383710c12c61d08e1f72a5666350c40df9f282",
-      "unpackedsize": 70544
-    },
-    {
-      "localfile": "conf/gpublacklist.json",
-      "packedhash": "64d83735b728d8cb5d296c2f2a9a58dec1d6b58b69f87c3cd5c27ecb721aac42",
-      "packedsize": 1222,
-      "url": "conf/gpublacklist.json.lzma",
-      "unpackedhash": "057cc6d78c8893aa26e3aa734e6585671206b78c9cf0f96c03a2f33bd89ef48d",
-      "unpackedsize": 6242
     }
   ],
   "executable": "bin/client.exe",
